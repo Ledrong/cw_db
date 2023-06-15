@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/apiii/server/main.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/cooling/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/cpu/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/motherboard/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/pcbuild/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/powerbox/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/ram/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/apiii/src/user/repository/repository.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/db/db.sql" dialect="GenericSQL" />
+  </component>
+</project>
